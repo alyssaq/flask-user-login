@@ -14,7 +14,7 @@ Install `pip`, `virtualenv`, `virtualenvwrapper`, `foreman`, [`heroku client`](h
 
 ## Usage
 
-1. Clone the repo
+1. Clone the repo `git clone git@github.com:alyssaq/flask-user-login.git`
 1. Install requirements `pip install -r requirements.txt`
 
 ## Running
